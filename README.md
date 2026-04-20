@@ -1,4 +1,4 @@
-In this project, we'll build a command-line airline reservation system that handles flight searches, bookings, and cancellations entirely from the terminal. Using Python and MySQL, we'll create a dual-interface application where users can search flights, make reservations, and process payments, while administrators manage flight inventory and system operations. The system will feature intelligent flight search capabilities, including direct flights and multi-leg itineraries, with real-time pricing integration through an external API.
+In this project, a command-line airline reservation system that handles flight searches, bookings, and cancellations entirely from the terminal. Using Python and MySQL, we'll create a dual-interface application where users can search flights, make reservations, and process payments, while administrators manage flight inventory and system operations. The system will feature intelligent flight search capabilities, including direct flights and multi-leg itineraries, with real-time pricing integration through an external API.
 
 
 Flowchart of the application
